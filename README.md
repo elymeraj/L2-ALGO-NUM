@@ -23,7 +23,3 @@ Ce projet vise à offrir une compréhension pratique des méthodes numériques a
 ## Technologies Utilisées
 
 - **Langage** : C
-
-## Contributions et Feedback
-
-Vos contributions et feedback sont grandement appréciés. Si vous avez des suggestions d'amélioration ou des questions sur les projets, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
